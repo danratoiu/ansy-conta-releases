@@ -1,6 +1,6 @@
 {
-  "version": "0.99",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-0.99.exe",
-  "sha256": "62cd92b4b6cca8e960803682d503d025fde446ab8abd9c870c0fbbb8a347ca7c",
-  "notes": "Registrul imobilizărilor la o dată aleasă, control cu balanța și export Excel. Fereastra Noutăți grupează schimbările pe versiuni."
+  "version": "1.2",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-1.2.exe",
+  "sha256": "3ee4ce508621c02e526c0cf8b819187933ebed36b9d4350f097e650315f948a3",
+  "notes": "Finalizarea și redeschiderea inventarierii, proces-verbal PDF și urmărirea diferențelor."
 }

@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.4",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-2.4.exe",
-    "sha256":  "5dc013efd887d980af631802900d627e459607b4de3f164f4f976e6771eb077c",
-    "notes":  "Meniu Dividende si calculator pentru impozit si dividendul net."
+    "version":  "2.5",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-2.5.exe",
+    "sha256":  "5f32dd19eddbfb43e75aaa9fbb7456f756806190829aeedde1bb4c5893a2ad08",
+    "notes":  "Estimare CASS, repartizare dividende si bare de titlu noi."
 }

@@ -1,6 +1,6 @@
 {
-  "version": "0.95",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-0.95.exe",
-  "sha256": "416d5cd0c7f85da986711f20cd26d393c3b0a073d21bed75d9be2107e1d4eab6",
-  "notes": "Actualizarea păstrează scurtătura existentă. Fereastra Despre afișează noutățile versiunii 0.95."
+  "version": "0.96",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-0.96.exe",
+  "sha256": "1aef3e4c64bcc21bec9ae2b34ce1ee82644b3acbca3212ed8ed049e43eadb243",
+  "notes": "La prima pornire după instalare sau actualizare, vezi ce s-a schimbat în versiunea nouă."
 }

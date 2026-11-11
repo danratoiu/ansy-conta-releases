@@ -1,6 +1,6 @@
-{
-  "version": "1.2",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-1.2.exe",
-  "sha256": "3ee4ce508621c02e526c0cf8b819187933ebed36b9d4350f097e650315f948a3",
-  "notes": "Finalizarea și redeschiderea inventarierii, proces-verbal PDF și urmărirea diferențelor."
+﻿{
+    "version":  "2.0",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-2.0.exe",
+    "sha256":  "c93994f3b78a14239814de2a31c3b8e9b0d93f096f53de2fce3e807a9ca8aa24",
+    "notes":  "Inregistrare fara factura cu alegerea contului corespondent si previzualizarea notei."
 }

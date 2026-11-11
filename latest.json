@@ -1,6 +1,6 @@
 {
-  "version": "0.98",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-0.98.exe",
-  "sha256": "4ad062142b922eebc8e380885935f931ad954c6863c434b4f9f3ebfd9077e5f2",
-  "notes": "Am corectat afișarea ferestrei Noutăți la pornire. Textul și butonul Închide sunt vizibile în centrul ecranului principal, inclusiv când aplicația pornește maximizată."
+  "version": "0.99",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-0.99.exe",
+  "sha256": "62cd92b4b6cca8e960803682d503d025fde446ab8abd9c870c0fbbb8a347ca7c",
+  "notes": "Registrul imobilizărilor la o dată aleasă, control cu balanța și export Excel. Fereastra Noutăți grupează schimbările pe versiuni."
 }

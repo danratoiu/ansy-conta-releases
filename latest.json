@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.0",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-2.0.exe",
-    "sha256":  "c93994f3b78a14239814de2a31c3b8e9b0d93f096f53de2fce3e807a9ca8aa24",
-    "notes":  "Inregistrare fara factura cu alegerea contului corespondent si previzualizarea notei."
+    "version":  "2.4",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-2.4.exe",
+    "sha256":  "5dc013efd887d980af631802900d627e459607b4de3f164f4f976e6771eb077c",
+    "notes":  "Meniu Dividende si calculator pentru impozit si dividendul net."
 }

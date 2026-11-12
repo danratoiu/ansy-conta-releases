@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.5",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-2.5.exe",
-    "sha256":  "5f32dd19eddbfb43e75aaa9fbb7456f756806190829aeedde1bb4c5893a2ad08",
-    "notes":  "Estimare CASS, repartizare dividende si bare de titlu noi."
+    "version":  "4.0",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-4.0.exe",
+    "sha256":  "124feb06a33bcb493915d7a2c71bc41ecf3e870919e5f06da51d5319c602bffe",
+    "notes":  "e-Factura: XML, verificari locale si istoric."
 }

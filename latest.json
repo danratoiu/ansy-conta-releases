@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "4.2",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-4.2.exe",
-    "sha256":  "278becffebfe45e7174e28eb55c41adb7a0153dac272147cd9668729e7ad5041",
-    "notes":  "Ferestre cu bara de titlu unitara si inchidere prin X."
+    "version":  "4.7",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-4.7.exe",
+    "sha256":  "696faf2bae9c12b727e0deba8f339aba407ef34c046d2af8da433d8ff6b001ed",
+    "notes":  "SPV: reguli de cont pe articol, adaugare furnizor, cautare, filtre si comparatie pe pozitii. Intrari: scadentar furnizori si ordine de plata grupate."
 }

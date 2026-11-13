@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "7.2",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-7.2.exe",
-    "sha256":  "7d927b789420fe837d7222bb9dbb91c155260de76ef4b773be1f19cae4657a2f",
-    "notes":  "Ferestre Windows uniforme, X si colturi rotunjite; clasificatie mijloace fixe, selectie clasa/durata, copiere fise, stergere protejata si istoric Excel; corectie control stocuri-balanta."
+    "version":  "7.5",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-7.5.exe",
+    "sha256":  "fc00a417743e2a4dc56dc771b0adc41afac2a4133ba7a6dc9216a368e0f26edf",
+    "notes":  "Obiecte in folosinta: situatie la data, propuneri peste un an, casare in lot cu cantitati partiale, anulare controlata, procese-verbale PDF si Excel. Evidenta cantitativa, fara note contabile automate."
 }

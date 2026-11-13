@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "7.0",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-7.0.exe",
-    "sha256":  "e0a8b9592cde571969938b5ca249ebc45ca90acd64935c301d2757221b2e9f68",
-    "notes":  "Memento: sarcini si termene repetitive pe societate, alerte, calendar, rezolvare/redeschidere, amanare avertizare, copiere, arhivare/restaurare, istoric si PDF/Excel. Alerte locale; termenele se confirma manual."
+    "version":  "7.2",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-7.2.exe",
+    "sha256":  "7d927b789420fe837d7222bb9dbb91c155260de76ef4b773be1f19cae4657a2f",
+    "notes":  "Ferestre Windows uniforme, X si colturi rotunjite; clasificatie mijloace fixe, selectie clasa/durata, copiere fise, stergere protejata si istoric Excel; corectie control stocuri-balanta."
 }

@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "4.7",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-4.7.exe",
-    "sha256":  "696faf2bae9c12b727e0deba8f339aba407ef34c046d2af8da433d8ff6b001ed",
-    "notes":  "SPV: reguli de cont pe articol, adaugare furnizor, cautare, filtre si comparatie pe pozitii. Intrari: scadentar furnizori si ordine de plata grupate."
+    "version":  "5.9",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-5.9.exe",
+    "sha256":  "c92537272a91565151b87bcd533aca40ceef85db48c28f2e9898f5a4e50961e8",
+    "notes":  "Actionari/asociati: fise persoane fizice, cote, administratori, contacte, conturi 457 automate, fisa contului si istoric. Simulari de dividende salvate cu cote istorice, export PDF/Excel si preluare in calculator. Simularile nu genereaza note contabile sau declaratii."
 }

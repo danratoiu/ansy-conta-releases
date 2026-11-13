@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "5.9",
-    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-5.9.exe",
-    "sha256":  "c92537272a91565151b87bcd533aca40ceef85db48c28f2e9898f5a4e50961e8",
-    "notes":  "Actionari/asociati: fise persoane fizice, cote, administratori, contacte, conturi 457 automate, fisa contului si istoric. Simulari de dividende salvate cu cote istorice, export PDF/Excel si preluare in calculator. Simularile nu genereaza note contabile sau declaratii."
+    "version":  "7.0",
+    "url":  "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-7.0.exe",
+    "sha256":  "e0a8b9592cde571969938b5ca249ebc45ca90acd64935c301d2757221b2e9f68",
+    "notes":  "Memento: sarcini si termene repetitive pe societate, alerte, calendar, rezolvare/redeschidere, amanare avertizare, copiere, arhivare/restaurare, istoric si PDF/Excel. Alerte locale; termenele se confirma manual."
 }

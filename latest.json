@@ -1,6 +1,6 @@
 {
-  "version": "9.37",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.37.exe",
-  "sha256": "a45226769b30186a8dceddbfddf34e15e1147d2aae54801d1b0c5c26db13d11a",
-  "notes": "Imobilizări: reevaluare contabilă în RON pe categorie, eliminarea sau recalcularea proporțională a amortizării, diferențe în 105/655/755, istoric și anulare protejată. Planul ulterior, registrul și ieșirea folosesc valorile reevaluate. Rezerva se transferă în 1175 la ieșire sau pe măsura amortizării, cu reversări corelate. Terenuri 2111 neamortizabile și trecere prospectivă explicită la liniar la modernizarea unui activ accelerat. Inventar comparativ față de 9.36 și instalator cumulativ pregătit pentru publicare manuală. Nu calculează fiscalitatea reevaluării sau declarațiile."
+  "version": "9.38",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.38.exe",
+  "sha256": "c1a330a935f4590f31fa1ee9156c239ad767c06914181618667604395e5a8ba4",
+  "notes": "Setări → Preferințe: selector de culoare pentru fundal, previzualizare, salvare locală și revenire la gradientul albastru."
 }

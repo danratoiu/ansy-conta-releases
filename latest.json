@@ -1,6 +1,6 @@
 {
-  "version": "9.21",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.21.exe",
-  "sha256": "e8dbedd1df692bf42bb2d040bad5a2f0aae37fc2881efd470fe024dc71acc7c6",
-  "notes": "Comenzi în unități alternative: introducere și modificare în baxuri/ambalaje configurate, factor memorat, cantitate și preț în UM de stoc, preluări parțiale în facturi, tipărire și control conversii. Facturare în lot a maximum 100 de comenzi, câte o factură nevalidată pe comandă, cu resturile curente, numere verificate și salvare integrală sau deloc. Inventar și manual actualizate. Instalator pregătit pentru publicare manuală; nu înlocuiește automat aplicația instalată."
+  "version": "9.37",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.37.exe",
+  "sha256": "a45226769b30186a8dceddbfddf34e15e1147d2aae54801d1b0c5c26db13d11a",
+  "notes": "Imobilizări: reevaluare contabilă în RON pe categorie, eliminarea sau recalcularea proporțională a amortizării, diferențe în 105/655/755, istoric și anulare protejată. Planul ulterior, registrul și ieșirea folosesc valorile reevaluate. Rezerva se transferă în 1175 la ieșire sau pe măsura amortizării, cu reversări corelate. Terenuri 2111 neamortizabile și trecere prospectivă explicită la liniar la modernizarea unui activ accelerat. Inventar comparativ față de 9.36 și instalator cumulativ pregătit pentru publicare manuală. Nu calculează fiscalitatea reevaluării sau declarațiile."
 }

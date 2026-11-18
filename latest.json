@@ -1,6 +1,6 @@
 {
-  "version": "9.41",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.41.exe",
-  "sha256": "4c3851e13cb5b40c1056d109962639d0d63f3c059e879ee776454046c54d8402",
-  "notes": "9.41: girare efecte către furnizori, contabilizare și anulare. Include 9.40: registru contractual local cu istoric; 9.39: registre contabile extinse. Detaliile pe versiuni apar la prima pornire."
+  "version": "9.42",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.42.exe",
+  "sha256": "6feda1dc19fc4df9da70c6346ebb745b82baa8e89a55e672939435771e482996",
+  "notes": "Import SAGA: detectare automată Firebird 3 în alte locații și alegerea manuală a folderului, păstrată local."
 }

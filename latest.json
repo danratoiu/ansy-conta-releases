@@ -1,6 +1,6 @@
 {
-  "version": "9.42",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.42.exe",
-  "sha256": "6feda1dc19fc4df9da70c6346ebb745b82baa8e89a55e672939435771e482996",
-  "notes": "Import SAGA: detectare automată Firebird 3 în alte locații și alegerea manuală a folderului, păstrată local."
+  "version": "9.52",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.52.exe",
+  "sha256": "487efefcf5bab374b321c38871222d912964e4e074a70c8919ebd0b2efaeedc1",
+  "notes": "Facturi, retururi cu TVA la încasare, reconciliere TVA, XML e-Factura verificabil la ANAF și import UBL cu stoc sau note de credit. Inventar comparat cu 9.51."
 }

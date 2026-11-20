@@ -1,6 +1,6 @@
 {
-  "version": "9.52",
-  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.52.exe",
-  "sha256": "487efefcf5bab374b321c38871222d912964e4e074a70c8919ebd0b2efaeedc1",
-  "notes": "Facturi, retururi cu TVA la încasare, reconciliere TVA, XML e-Factura verificabil la ANAF și import UBL cu stoc sau note de credit. Inventar comparat cu 9.51."
+  "version": "9.64",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-9.64.exe",
+  "sha256": "d7f117c7e1303efff47331857f36e96549485976d2be6e803ebe9151346f9052",
+  "notes": "Verificări ANAF cu reluarea loturilor, situații manageriale pe activități și API local cu acces autorizat și protecție la dubluri. Include toate noutățile până la 9.64."
 }

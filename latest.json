@@ -1,6 +1,6 @@
 {
   "version": "10.18",
-  "url": "https://github.com/danratoiu/ansy-conta-releases/releases/download/v10.18/ansy-conta-setup-10.18.exe",
+  "url": "https://raw.githubusercontent.com/danratoiu/ansy-conta-releases/main/ansy-conta-setup-10.18.exe",
   "sha256": "c3eb8ffa662d4fcdf96e0a8d9edf3742c089ebb9f371803bce3e86533314f0e6",
   "notes": "Corectii stoc pentru facturi achitate RON/valuta, TVA la incasare, TVA nedeductibila in cost, protectia tipurilor si remedierea actualizarii 404."
 }

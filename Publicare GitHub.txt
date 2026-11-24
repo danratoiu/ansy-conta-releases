@@ -1,0 +1,23 @@
+ANSY CONTA 10.18 — PUBLICARE MANUALĂ
+
+Instalatorul a fost construit, dar nu este încă publicat pe GitHub.
+Încarcă instalatorul ca atașament al unei GitHub Release, nu ca fișier în codul sursă.
+Pagina: https://github.com/danratoiu/ansy-conta-releases/releases/new
+Tag: v10.18. Atașează fișierul la secțiunea de binare, apoi apasă Publish release.
+Adresa prevăzută în catalog este:
+https://github.com/danratoiu/ansy-conta-releases/releases/download/v10.18/ansy-conta-setup-10.18.exe
+
+Folosește exact numele ansy-conta-setup-10.18.exe pentru atașament.
+În folderul release există deja o copie cu acest nume. Dacă folosești doar acest ZIP,
+copiază/redenumește Ansy Conta Setup 10.18.exe înainte de încărcare.
+Nu este suficient să creezi tag-ul: fișierul trebuie atașat și release-ul publicat, nu Draft.
+Înainte de latest.json, rulează Verifica-Publicarea.ps1 din folderul acestui pachet.
+Scriptul descarcă fișierul pentru verificarea SHA-256; nu îl execută și nu instalează nimic.
+Numai după mesajul OK înlocuiește latest.json din rădăcina depozitului
+danratoiu/ansy-conta-releases, pe ramura main, cu fișierul din acest pachet.
+Nu modifica instalatorul după generarea catalogului: amprenta SHA-256 trebuie să coincidă.
+Pentru verificarea finală rulează scriptul cu parametrul -VerificaCatalog.
+Eroarea 404 apare dacă URL-ul din latest.json indică Releases, dar fișierul a fost pus
+în alt loc (de exemplu rădăcina depozitului). Păstrează adresa și locul de încărcare identice.
+
+Actualizarea aplicației se pornește manual din Ajutor → Verifică actualizări.

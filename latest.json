@@ -1,6 +1,6 @@
 {
-  "version": "10.18",
-  "url": "https://github.com/danratoiu/ansy-conta-releases/releases/download/v10.18/ansy-conta-setup-10.18.exe",
-  "sha256": "c3eb8ffa662d4fcdf96e0a8d9edf3742c089ebb9f371803bce3e86533314f0e6",
-  "notes": "Corectii stoc pentru facturi achitate RON/valuta, TVA la incasare, TVA nedeductibila in cost, protectia tipurilor si remedierea actualizarii 404."
+  "version": "10.29",
+  "url": "https://github.com/danratoiu/ansy-conta-releases/releases/download/v10.29/ansy-conta-setup-10.29.exe",
+  "sha256": "14237b4927b619f89d2fddc190e860f361efbf70f8aba8a8e18f9003fc6ba703",
+  "notes": "D205 finalizat pentru formatul curent 2025–2026: registru de beneficiari cu justificative, toate cele 13 categorii de venit, centralizare anuală și rotunjire după însumare, validare locală cu programul oficial ANAF și PDF oficial. Declarație inițială și rectificative care includ numai beneficiarii modificați, cu valori zero pentru eliminări. Preluare XML din alte programe în ordinea inițială–rectificative, istoric nemodificabil, control concurență, export XML/PDF și dosar ZIP cu justificative. Nu calculează impozitul în locul modulelor de venit; raportează sumele efective documentate. Semnarea/depunerea sunt externe. Inventar 10.28 → 10.29: D205 trece de la Lipsă la Complet; instalator nou pentru actualizare manuală."
 }

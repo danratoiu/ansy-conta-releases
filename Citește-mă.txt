@@ -1,0 +1,22 @@
+ANSY CONTA — INSTALARE WINDOWS
+
+1. Extrage fișierele din arhiva ZIP.
+2. Rulează fișierul „Ansy Conta Setup ... .exe”.
+3. Deschide Ansy Conta din meniul Start sau de pe desktop dacă ai ales scurtătura.
+
+Instalatorul include aplicația și componentele Python necesare. Pentru a muta firmele
+de pe alt calculator, folosește backup și restaurare în Administrare → Întreținere BD.
+Actualizările păstrează baza de date din profilul Windows.
+
+ACTUALIZĂRI
+
+În Ajutor → Verifică actualizări, aplicația folosește automat catalogul oficial. Verificarea devine operațională după publicarea catalogului și a pachetului.
+Salvează lucrul înainte de a confirma instalarea unei versiuni noi.
+
+Importul fișierelor SAGA .FDB necesită separat utilitarele Firebird 3 pentru SAGA.
+În fereastra de import poți folosi Detectează automat sau Alege folder Firebird 3.
+Pentru validarea locală e-Factura UBL/CII este necesar Java instalat; regulile și
+schemele XML sunt incluse în aplicație. Validarea locală nu este depunere în SPV.
+
+Pachetul nu conține societățile ori datele contabile de pe calculatorul dezvoltatorului.
+
